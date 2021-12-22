@@ -1,10 +1,11 @@
 ### Analyzing NYC's Stormwater Flood Map - Extreme Flood Scenario
 Author: Mark Bauer
 
-Jupyter Notebook:
-Kindly find the analysis in the analysis.ipynb notebook in this repository.
+Analysis:
+Kindly find the analysis in the [analysis.ipynb](https://github.com/mebauer/nyc-stormwater-map-analysis/blob/main/analysis.ipynb) notebook in this repository.
 
-Figures can be located in the figures folder. 
+Figures:
+Figures can be located in the [figures folder](https://github.com/mebauer/nyc-stormwater-map-analysis/tree/main/figures). 
 
 Data Source: 
 [NYC Stormwater Flood Map - Extreme Flood](https://data.cityofnewyork.us/City-Government/NYC-Stormwater-Flood-Map-Extreme-Flood/w8eg-8ha6) on NYC Open Data. 
