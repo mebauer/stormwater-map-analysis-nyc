@@ -1,9 +1,14 @@
 ### Analyzing NYC's Stormwater Flood Map - Extreme Flood Scenario
 Author: Mark Bauer
 
+### Table of Contents
+* [About the Project](#About-the-Project)
+* [About The Data](#About-The-Data)
+* [Say Hello!](#Say-Hello)
+
 ![cover-map](figures/stormwater-class-map.png)
 
-About the Project:  
+### About the Project  
 The first phase of the project was to purely analyze the raw data to develop potential research questions. In addition to the raw data, NYC's boroughs layer was also incorporated. 
 
 Analysis:  
