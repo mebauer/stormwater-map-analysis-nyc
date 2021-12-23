@@ -3,7 +3,7 @@ Author: Mark Bauer
 
 ### Table of Contents
 * [About the Project](#About-the-Project)
-* [About The Data](#About-The-Data)
+* [About the Data](#About-the-Data)
 * [Say Hello!](#Say-Hello)
 
 ![cover-map](figures/stormwater-class-map.png)
@@ -20,7 +20,7 @@ Python, Jupyter Notebook.
 Figures:  
 Figures, many in the form of maps, can be located in the [figures](https://github.com/mebauer/nyc-stormwater-map-analysis/tree/main/figures) folder. 
 
-### About The Data
+### About the Data
 
 Data Source:  
 [NYC Stormwater Flood Map - Extreme Flood](https://data.cityofnewyork.us/City-Government/NYC-Stormwater-Flood-Map-Extreme-Flood/w8eg-8ha6) is freely available on NYC Open Data. 
