@@ -30,4 +30,4 @@ Twitter: [markbauerwater](https://twitter.com/markbauerwater)
 LinkedIn: [markebauer](https://www.linkedin.com/in/markebauer/)  
 GitHub: [mebauer](https://github.com/mebauer)
 
-Keywords: FEMA, Flood Insurance Rate Map, FIRM, National Flood Hazard Layer, NFHL, National Flood Insurance Program, NFIP, Flood, Flood Zone, Flood Map, New York City, NYC, Python, pandas, GeoPandas, GIS, Open Source
+Keywords: NYC, New York City, Stormwater, Resiliency, Plan, Map, DEP, Department of Environmental Protection, Flood, Flooding, Flood Zone, Flood Map, Data Analysis, Python, pandas, GeoPandas, GIS, Open Source
