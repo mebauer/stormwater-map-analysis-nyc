@@ -8,17 +8,12 @@ Author: Mark Bauer
 
 ![cover-map](figures/cover-map.png)
 
-### About the Project  
-The first phase of the project was to purely analyze the raw data to develop potential research questions.
+### About the Project 
+The tried to recreate maps, figures and statistics from the New York City Stormwater Resiliency Plan in Python in a reproducible way.
 
-Analysis:  
-Kindly find the analysis in the [analysis.ipynb](https://github.com/mebauer/nyc-stormwater-map-analysis/blob/main/analysis.ipynb) notebook in this repository.
+Analysis: Kindly find the analysis in the [analysis.ipynb](https://github.com/mebauer/nyc-stormwater-map-analysis/blob/main/analysis.ipynb) notebook in this repository.
 
-Tools:  
-Python, Jupyter Notebook.
-
-Figures:  
-Figures, many in the form of maps, can be located in the [figures](https://github.com/mebauer/nyc-stormwater-map-analysis/tree/main/figures) folder. 
+Tools: Python, Jupyter Notebook.
 
 ### About the Data
 
@@ -37,4 +32,4 @@ Twitter: [markbauerwater](https://twitter.com/markbauerwater)
 LinkedIn: [markebauer](https://www.linkedin.com/in/markebauer/)  
 GitHub: [mebauer](https://github.com/mebauer)
 
-Keywords: NYC, New York City, Stormwater, Resiliency, Plan, Map, DEP, Department of Environmental Protection, Flood, Flooding, Flood Zone, Flood Map, Data Analysis, Python, pandas, GeoPandas, GIS, Open Source
+Keywords: *New York City, NYC, NYC Water, Stormwater, Stormwater Management, Precipitation, Rainfall, Resiliency, Climate Resiliency, Climate Change, Plan, Map, DEP, Department of Environmental Protection, Flood, Flooding, Urban Flooding, Flood Zone, Flood Map, Sea Level Rise, Rain Garden, Data Analysis, Python, pandas, GeoPandas, GIS, Geographic Information System, Open Source*
