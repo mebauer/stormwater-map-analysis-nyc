@@ -6,10 +6,10 @@ Author: Mark Bauer
 * [About the Data](#About-the-Data)
 * [Say Hello!](#Say-Hello)
 
-![cover-map](figures/stormwater-class-map.png)
+![cover-map](figures/cover-map.png)
 
 ### About the Project  
-The first phase of the project was to purely analyze the raw data to develop potential research questions. In addition to the raw data, NYC's boroughs layer was also incorporated. 
+The first phase of the project was to purely analyze the raw data to develop potential research questions.
 
 Analysis:  
 Kindly find the analysis in the [analysis.ipynb](https://github.com/mebauer/nyc-stormwater-map-analysis/blob/main/analysis.ipynb) notebook in this repository.
