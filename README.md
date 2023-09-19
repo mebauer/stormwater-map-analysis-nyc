@@ -9,11 +9,9 @@ Author: Mark Bauer
 ![cover-map](figures/cover-map.png)
 
 ### About the Project 
-The tried to recreate maps, figures and statistics from the New York City Stormwater Resiliency Plan in Python in a reproducible way.
+This project attempts to recreate maps, figures and statistics from the New York City Stormwater Resiliency Plan in Python. Additionally, the project focuses on open source and reproducible workflows. All work is provided in these notebooks.
 
-Analysis: Kindly find the analysis in the [analysis.ipynb](https://github.com/mebauer/nyc-stormwater-map-analysis/blob/main/analysis.ipynb) notebook in this repository.
-
-Tools: Python, Jupyter Notebook.
+You can find many of the final outputs (maps, figures, etc.) in the [analysis.ipynb](https://github.com/mebauer/nyc-stormwater-map-analysis/blob/main/analysis.ipynb) notebook. If you're interested in examining all the steps to create this project, please see the other notebooks located in this repository.
 
 ### About the Data
 
