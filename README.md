@@ -22,7 +22,7 @@ The Report:
 You can read the official report published by the City titled [New York City Stormwater Resiliency Plan](https://www1.nyc.gov/assets/orr/pdf/publications/stormwater-resiliency-plan.pdf).
 
 NYC Stormwater Flood Map Viewer:  
-You can view these maps in an interactive dashboard at [NYC Stormwater Flood Map Viewer](https://experience.arcgis.com/experience/7c260f80c5d44d948d45051d7a2d6d77/page/Page-1/?views=View-1).
+You can view these maps in an interactive dashboard at [NYC Stormwater Flood Map Viewer](https://experience.arcgis.com/experience/6f4cc60710dc433585790cd2b4b5dd0e).
 
 ### Say Hello!
 Contact information:  
