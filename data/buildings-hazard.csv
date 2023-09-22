@@ -1,4 +1,4 @@
-nta2020,count,flood_classification,flooded_count,flooded_perc,ntaname,boroname,ntaname_boro
+nta2020,building_count,flood_classification,flooded_count,flooded_perc,ntaname,boroname,ntaname_boro
 QN1001,23685,Deep and Contiguous Flooding,8,0.03,South Ozone Park,Queens,"South Ozone Park, Queens"
 QN1001,23685,Nuisance Flooding,2,0.01,South Ozone Park,Queens,"South Ozone Park, Queens"
 QN1303,19817,Deep and Contiguous Flooding,6,0.03,Queens Village,Queens,"Queens Village, Queens"
