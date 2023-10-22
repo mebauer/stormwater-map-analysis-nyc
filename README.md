@@ -8,6 +8,8 @@ Author: Mark Bauer
 
 ![cover-map](figures/cover-map.png)
 
+![precip-cover-map](figures/precipitation-cover-photo.png)
+
 ### About the Project 
 This project attempts to recreate maps, figures and statistics from the New York City Stormwater Resiliency Plan in Python. Additionally, the project focuses on open source and reproducible workflows. All work is provided in these notebooks.
 
