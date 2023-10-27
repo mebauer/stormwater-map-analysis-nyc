@@ -12,8 +12,6 @@ Author: Mark Bauer
 
 ![high-tide-buildings-perc](figures/high-tide-buildings-perc.png)
 
-![precip-hourly](figures/precip-hourly.png)
-
 ![precip-cover-map](figures/precip-cover-photo.png)
 
 ### About the Project 
